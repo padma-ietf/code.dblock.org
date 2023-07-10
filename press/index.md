@@ -83,7 +83,7 @@ fjs.parentNode.insertBefore(js, fjs);
 
 ## 2011
 
-### [Wired: Art.sy’s ‘Genome’ Predicts What Paintings You Will Like](https://www.wired.com/2011/11/mf_artsy)
+### [Wired: Art.sy’s ‘Genome’ Predicts What Paintings You Will Like](https://www.wired.com/2011/11/mf-artsy/)
 
 > On a Balmy summer day in Manhattan, the founder of a web startup called Art.sy was about to experience what one might call an Alexander Graham Bell moment. The firm’s 25-year-old CEO, Carter Cleveland, was sitting on a sofa with his MacBook, scrolling through photos of fine art, when his lanky head of engineering walked in looking positively wobbly with excitement. "This is actually quite cool," he said, landing on the sofa next to his boss. The engineer, Daniel Doubrovkine, produced a phone and pointed its camera at Cleveland’s computer screen, which at that moment showed an image from Andy Warhol’s Flowers series.
 >

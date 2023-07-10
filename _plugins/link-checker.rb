@@ -43,9 +43,7 @@ module Jekyll::LinkChecker
 
   ##
   # List of domains to ignore
-  @ignored_domains = [
-    'localhost',
-  ]
+  @ignored_domains = File.readlines(File.join(File.dirname(__FILE__), 'link-checker-exclude-domains.txt'))
 
   ##
   # Pattern of local paths to ignore
@@ -83,7 +81,7 @@ module Jekyll::LinkChecker
       @external_link_checker = LinkChecker::Typhoeus::Hydra::Checker.new(
         logger: Jekyll.logger,
         hydra: { max_concurrency: 2 },
-        retries: 3,
+        retries: 1,
         user_agent: 'dblock.org Link Checker/1.0'
       )
 

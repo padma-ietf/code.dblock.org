@@ -1,0 +1,3 @@
+localhost
+twitter.com
+www.linkedin.com
